@@ -1,2 +1,2 @@
 # simplebot
-telegram bot example with telebot
+telegram bot example with telebot for Medium story
